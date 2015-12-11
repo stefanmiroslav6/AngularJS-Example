@@ -1,0 +1,14 @@
+<div class="main">
+    <div class="content-wrapper">
+        <div class="content-header">
+            <button type="button" class="btn btn-default" ng-click="vm.onSearchClick()">Search</button>
+            <button type="button" class="btn btn-primary" ng-click="vm.onExportClick($event)" ng-disabled="vm.exportDisabled"
+                    data-loading-text="Exporting...">Export to CSV
+            </button>
+        </div>
+
+        <div class="main-content">
+            <div class="grid-div" kendo-grid="rhcaplReportGrid" k-options="vm.rhcaplReportGridOptions"></div>
+        </div>
+    </div>
+</div>
