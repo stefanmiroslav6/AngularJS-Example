@@ -1,0 +1,1 @@
+InAppTranslation App - Simple AngularJS app example
