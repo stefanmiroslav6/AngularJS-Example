@@ -9,7 +9,7 @@
   "keywords": [
     "rhcapl"
   ],
-  "author": "Haohong Xu",  
+  "author": "Stefan Miroslav",  
   "devDependencies": {
     "bower": "^1.5.3",
     "grunt": "^0.4.5",
