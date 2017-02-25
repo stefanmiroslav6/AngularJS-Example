@@ -2,6 +2,7 @@
   "name": "aries-ui",
   "version": "1.0.0",
   "description": "Aries UI",
+  "author": "Stefan Miroslav",
   "scripts": {
     "install": "bower install"
   },  
